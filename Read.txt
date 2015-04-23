@@ -1,0 +1,16 @@
+/*
+  The Project is only for green hand who is not familier with the using of AllJoyn and Efflux
+*/
+--------------------------------------------------------------------------------------------------
+
+This project utilizes the OpenSource AllJoyn to find the Server In the same NetWork Scope 
+
+the OpenSource Efflux is an OpenSource RTP video transmission libs.
+
+The procedure is :
+
+A. find the server ip
+
+B. set up an RTP session
+
+C. communicate by sending simple message
